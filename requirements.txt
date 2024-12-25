@@ -1,0 +1,12 @@
+scikit-learn==1.0.1
+numpy==1.24.0
+scikit-image
+unzip
+joblib
+pandas
+matplotlib
+natsort
+streamlit
+flask
+flask-cors
+werkzeug==2.2.3
